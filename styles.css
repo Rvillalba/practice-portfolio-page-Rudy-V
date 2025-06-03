@@ -1,0 +1,21 @@
+body {
+ background-color: rgb(205, 237, 100);
+}
+h1 {
+    text-align: center;
+}
+#about {
+    font-style: bold;
+    text-align: center;
+    color: crimson;
+    font-size: larger;
+}
+h3 {
+    color: rgb(47, 20, 220);
+    font-size:xx-large;
+}
+ul {
+       color: rgb(47, 20, 220);
+    font-size:x-large;
+ 
+}
