@@ -1,8 +1,16 @@
 body {
- background-color: rgb(205, 237, 100);
+ background-color: rgb(224, 246, 152);
 }
-h1 {
+main {
+    background-color: antiquewhite;
+    padding: 30px;
+}
+h1, h3 {
     text-align: center;
+    color: rgb(47, 52, 0);
+    font-size: 2rem;
+    font-family: cursive;
+    font-style: italic;
 }
 #about {
     font-style: bold;
@@ -10,12 +18,12 @@ h1 {
     color: crimson;
     font-size: larger;
 }
-h3 {
+h4 {
     color: rgb(47, 20, 220);
-    font-size:xx-large;
+    font-size: x-large;
 }
 ul {
-       color: rgb(47, 20, 220);
+    color: rgb(47, 20, 220);
     font-size:x-large;
- 
 }
+
